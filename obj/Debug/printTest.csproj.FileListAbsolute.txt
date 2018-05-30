@@ -1,0 +1,17 @@
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\printTest.csprojAssemblyReference.cache
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\MainWindow.g.cs
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\App.g.cs
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\printTest_MarkupCompile.cache
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\printTest_MarkupCompile.lref
+C:\Users\CubeIQ\source\repos\printTest\printTest\bin\Debug\printTest.exe.config
+C:\Users\CubeIQ\source\repos\printTest\printTest\bin\Debug\printTest.exe
+C:\Users\CubeIQ\source\repos\printTest\printTest\bin\Debug\printTest.pdb
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\MainWindow.baml
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\printTest.g.resources
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\printTest.Properties.Resources.resources
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\printTest.csproj.GenerateResource.cache
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\printTest.csproj.CoreCompileInputs.cache
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\printTest.exe
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\printTest.pdb
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\supervReport.g.cs
+C:\Users\CubeIQ\source\repos\printTest\printTest\obj\Debug\supervReport.baml
